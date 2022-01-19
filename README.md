@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ravens0610
-- 👀 I’m interested in HTML development
+- 👋 Hey, I’m Jackson
+- 👀 I’m interested in web development and applications
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on development projects
