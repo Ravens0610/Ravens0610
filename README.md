@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Jackson
-- 👀 I’m interested in web development and applications
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on development projects
+- Hey, I’m Jackson
+- I am fluent in HTML, but I know 50+ development languages well
+- I’m currently learning Swift
+- Working on a proxy called OSPR
